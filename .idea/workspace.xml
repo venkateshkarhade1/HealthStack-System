@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e803a1-c8dc-456e-802e-44d6f584f2dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthstack/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/healthstack/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/healthstack/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/healthstack/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospital/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hospital_admin/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hospital_admin/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Extras/blank-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Extras/blank-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Extras/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Extras/calendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Extras/favourites.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Extras/favourites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Extras/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Extras/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Pharmacy/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Pharmacy/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Pharmacy/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Pharmacy/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Pharmacy/product-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Pharmacy/product-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Pharmacy/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Pharmacy/shop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/booking-success.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/booking-success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/doctor-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/doctor-dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/doctor-navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/doctor-navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/doctor-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/doctor-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital-doctor-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital-doctor-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hospital-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hospital-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/mail_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mail_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/navbar_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/navbar_home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/patient-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/patient-dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/patient_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/patient_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/search-hospitals.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/search-hospitals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/search.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2gApTtr17wENrwdYm7f4kQXhPzH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e803a1-c8dc-456e-802e-44d6f584f2dc" name="Changes" comment="" />
+      <created>1715150607202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715150607202</updated>
+    </task>
+    <servers />
+  </component>
+</project>
